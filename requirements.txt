@@ -1,0 +1,10 @@
+pathlib==1.0.1
+scandir==1.6
+h5py==2.9.0
+Keras==2.7
+opencv-python==4.5.4.58
+tensorflow==2.7.0
+scikit-image
+dlib
+face_recognition
+tqdm
